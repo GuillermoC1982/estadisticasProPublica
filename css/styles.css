@@ -1,0 +1,45 @@
+
+body{ 
+    margin-top: 3rem;
+}
+
+h1{
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+
+.email{
+    margin-top: 2rem;
+}
+
+h2{
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+
+table{
+    margin-top: 4rem;
+}
+
+p{
+    margin-top: 2rem;
+}
+
+.mt-4, .my-4{
+    margin-top: 15.5rem!important;
+}
+
+a{
+    color:#8ba6c3;
+    text-decoration: solid;
+    background-color: transparent;
+    font-size: 1.3rem;
+}
+
+#logo{
+     
+    width: 11rem;
+
+}
+
+ 
